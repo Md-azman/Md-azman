@@ -2,4 +2,13 @@
   background-color: yellow;
   color: black;
   font-family: cursive;  
+
+}
+body{
+  background-image: url('imgg.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+}
+h1{
+  color: white;
 }
