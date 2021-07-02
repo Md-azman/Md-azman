@@ -1,0 +1,15 @@
+.layout1{
+  
+  width: 100%;
+  background-color: red;
+    
+}
+.layout2{
+  height:500px;
+  width: 20%;
+  background-color: gray;
+
+  display: inline-block;
+    margin: 5px;
+
+}

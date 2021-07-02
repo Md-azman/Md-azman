@@ -1,0 +1,22 @@
+.layout1{
+  
+  width: 100%;
+  background-color: gray;
+  display: flex;
+}
+.layout2{
+  height:500px;
+  width: 15%;
+  background-color: red;
+
+ /* display: inline-block;
+   
+  flex-direction: row;
+  justify-content:space-evenly;
+  margin: 5px;*/
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  margin: 5px;
+  
+}
